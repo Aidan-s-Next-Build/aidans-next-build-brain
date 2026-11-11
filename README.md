@@ -3,3 +3,6 @@ I built a **content intelligence brain which my [Profound agent](https://platfor
 **Check out this diagram**
 
 ![How the content brain works today](content-brain-flow.svg)
+
+Ex, PR: 
+* This update adds a specific forecast and a way to check whether the system’s guesses were close. It keeps generated sample data separate from real results. The model hasn’t proven more accurate than a simple average yet, so we’re treating the forecasts as an experiment.*
