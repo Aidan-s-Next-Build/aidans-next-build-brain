@@ -1,0 +1,5 @@
+[
+ {"id":"A","title":"What 50 Growth Engineer Job Postings Actually Require","label":"core","cluster":"hiring_howto","hiring_relevance":3,"specificity":3,"effort":3,"format":"data walkthrough, screen recording"},
+ {"id":"B","title":"Build a Growth Engineering Portfolio Project in One Sitting: Attribution Dashboard","label":"core-adjacent","cluster":"systems_build","hiring_relevance":2,"specificity":3,"effort":3,"format":"build tutorial"},
+ {"id":"C","title":"I Ran My YouTube Channel Like a Growth Experiment for 4 Weeks","label":"wildcard","cluster":"market_take","hiring_relevance":1,"specificity":2,"effort":1,"format":"talking head with analytics screen"}
+]
