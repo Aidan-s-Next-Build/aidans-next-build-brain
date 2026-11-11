@@ -1,0 +1,89 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1350" viewBox="0 0 1080 1350" role="img" aria-labelledby="title description">
+  <title id="title">How the content brain works today</title>
+  <desc id="description">A five-step vertical flow showing how exported video data and supplied ideas are grouped, ranked with fixed rules, checked against a simple baseline, and returned as ranked ideas with rough view ranges. The current system does not learn from choices.</desc>
+  <defs>
+    <filter id="motion-trail" x="-250%" y="-50%" width="600%" height="200%">
+      <feGaussianBlur stdDeviation="3 5" />
+    </filter>
+    <marker id="arrow" markerWidth="10" markerHeight="10" refX="5" refY="5" orient="auto" markerUnits="strokeWidth">
+      <path d="M1 1L9 5L1 9Z" fill="#376CFF" />
+    </marker>
+    <style>
+      .sans { font-family: Inter, Helvetica, Arial, sans-serif; }
+      .card { fill: #111111; stroke: #303030; stroke-width: 2; }
+      .title { fill: #FFFFFF; font-size: 43px; font-weight: 650; }
+      .subtitle { fill: #A7A7A7; font-size: 22px; }
+      .step { fill: #FFFFFF; font-size: 27px; font-weight: 650; }
+      .body { fill: #C5C5C5; font-size: 21px; }
+      .number { fill: #376CFF; font-size: 24px; font-weight: 700; }
+      .connector-trail { stroke: #376CFF; stroke-width: 11; opacity: .38; filter: url(#motion-trail); }
+      .connector { stroke: #376CFF; stroke-width: 3; marker-end: url(#arrow); }
+    </style>
+  </defs>
+
+  <rect width="1080" height="1350" fill="#050505" />
+
+  <g class="sans">
+    <g transform="translate(72 54)">
+      <path d="M0.0673828 45.1145V26.5568C0.0673828 23.8272 1.38269 21.2643 3.60129 19.6709L27.6112 2.42687C29.1549 1.31814 31.0081 0.72168 32.9094 0.72168H32.9851C34.9592 0.72168 36.8685 1.33602 38.4593 2.47874C43.7448 6.2754 56.2521 15.2574 62.3985 19.6713C64.6172 21.2646 65.9323 23.8272 65.9323 26.5568V41.4429C65.9323 44.1725 64.6165 46.7349 62.3971 48.3273L38.41 65.5383C36.8333 66.6695 34.941 67.2781 32.9998 67.2781C31.0515 67.2781 29.1528 66.6685 27.5695 65.5345C24.4301 63.286 19.382 59.6608 19.382 59.6608V36.7552C19.382 36.454 19.7233 36.2792 19.9682 36.455L32.7838 45.6581C32.9128 45.7508 33.0868 45.7508 33.2159 45.6581L49.0324 34.3001C49.2378 34.1525 49.2378 33.8472 49.0324 33.6997L33.2159 22.3417C33.0868 22.2489 32.9128 22.2489 32.7838 22.3417L0.653597 45.4147C0.408749 45.5906 0.0673828 45.4158 0.0673828 45.1145Z" fill="#FFFFFF" transform="scale(.78)" />
+      <text x="64" y="37" fill="#FFFFFF" font-size="25" font-weight="650" letter-spacing="1">PROFOUND</text>
+      <text x="64" y="65" fill="#8E8E8E" font-size="15" letter-spacing="2">CONTENT INTELLIGENCE</text>
+    </g>
+
+    <text x="72" y="176" class="title">How the content brain works</text>
+    <text x="72" y="218" class="subtitle">The current prototype, in five simple steps</text>
+
+    <path d="M540 373V408" class="connector-trail" />
+    <path d="M540 373V408" class="connector" />
+    <path d="M540 533V568" class="connector-trail" />
+    <path d="M540 533V568" class="connector" />
+    <path d="M540 693V728" class="connector-trail" />
+    <path d="M540 693V728" class="connector" />
+    <path d="M540 853V888" class="connector-trail" />
+    <path d="M540 853V888" class="connector" />
+
+    <g>
+      <rect x="72" y="268" width="936" height="105" rx="8" class="card" />
+      <text x="112" y="310" class="number">01</text>
+      <text x="174" y="310" class="step">Give it your stats and ideas</text>
+      <text x="174" y="344" class="body">Past video results plus a few candidate ideas supplied for this run.</text>
+    </g>
+
+    <g>
+      <rect x="72" y="428" width="936" height="105" rx="8" class="card" />
+      <text x="112" y="470" class="number">02</text>
+      <text x="174" y="470" class="step">Find similar videos</text>
+      <text x="174" y="504" class="body">Groups past videos using simple keywords in their titles.</text>
+    </g>
+
+    <g>
+      <rect x="72" y="588" width="936" height="105" rx="8" class="card" />
+      <text x="112" y="630" class="number">03</text>
+      <text x="174" y="630" class="step">Rank the ideas</text>
+      <text x="174" y="664" class="body">Uses fixed rules for relevance, specificity, effort, and similar results.</text>
+    </g>
+
+    <g>
+      <rect x="72" y="748" width="936" height="105" rx="8" class="card" />
+      <text x="112" y="790" class="number">04</text>
+      <text x="174" y="790" class="step">Estimate and check</text>
+      <text x="174" y="824" class="body">Gives rough view ranges and checks them against a simple average.</text>
+    </g>
+
+    <g>
+      <rect x="72" y="908" width="936" height="105" rx="8" class="card" />
+      <text x="112" y="950" class="number">05</text>
+      <text x="174" y="950" class="step">Show the ranked ideas</text>
+      <text x="174" y="984" class="body">LinkedIn totals are reported separately from YouTube results.</text>
+    </g>
+
+    <rect x="72" y="1070" width="936" height="176" rx="8" fill="#0B1020" stroke="#376CFF" stroke-opacity=".58" stroke-width="2" />
+    <rect x="72" y="1070" width="7" height="176" rx="3" fill="#376CFF" />
+    <text x="108" y="1122" fill="#FFFFFF" font-size="21" font-weight="700">WHAT IT DOES NOT DO YET</text>
+    <text x="108" y="1162" class="body">It does not learn from your choices or train a model.</text>
+    <text x="108" y="1197" class="body">The view estimates are rough; the export does not isolate first-week views.</text>
+
+    <text x="72" y="1300" fill="#757575" font-size="15">PROFOUND BLUE  #376CFF</text>
+    <text x="1008" y="1300" fill="#757575" font-size="15" text-anchor="end">CURRENT WORKFLOW</text>
+  </g>
+</svg>
