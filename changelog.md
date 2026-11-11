@@ -1,2 +1,3 @@
 # Agent Self-Improvement Log
 - **v1.0 (Initial Setup):** Baseline rules established. Awaiting first video performance cycle.
+- **v1.1 (Open-Ended Idea Exploration):** Expanded brainstorming to allow topics outside the core niche, with core, adjacent, and wildcard labeling. Replaced generic AI/tool title formulas with specificity and variety rules after the first run's ideas missed the desired breadth. This is a qualitative preference update, not a metrics-validated performance claim.
