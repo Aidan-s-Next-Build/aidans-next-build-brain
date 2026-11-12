@@ -6,5 +6,5 @@ I built a **content intelligence brain with [Profound agent](https://platform.tr
 
 ![How the content brain works today](content-brain-flow.svg)
 
-Ex, PR: 
-* This update adds a specific forecast and a way to check whether the system’s guesses were close. It keeps generated sample data separate from real results. The model hasn’t proven more accurate than a simple average yet, so we’re treating the forecasts as an experiment.*
+Ex: 
+* PR #2 added scripts that read your video stats, group similar videos, rank three supplied ideas using fixed rules, and estimate views. It also checks whether those estimates beat a simple average; it doesn’t generate ideas or learn from your choices.*
