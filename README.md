@@ -9,4 +9,4 @@ I built a **content intelligence brain with [Profound agent](https://platform.tr
 Ex: 
 * PR #2 added scripts that read your video stats, group similar videos, rank three supplied ideas using fixed rules, and estimate views. It also checks whether those estimates beat a simple average; it doesn’t generate ideas or learn from your choices.*
 
-*Coming soon to an API near you...*
+*Coming soon to an Openrouter near you...*
