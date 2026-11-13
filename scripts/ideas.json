@@ -1,5 +1,5 @@
 [
- {"id":"A","title":"What 50 Growth Engineer Job Postings Actually Require","label":"core","cluster":"hiring_howto","hiring_relevance":3,"specificity":3,"effort":3,"format":"data walkthrough, screen recording"},
- {"id":"B","title":"Build a Growth Engineering Portfolio Project in One Sitting: Attribution Dashboard","label":"core-adjacent","cluster":"systems_build","hiring_relevance":2,"specificity":3,"effort":3,"format":"build tutorial"},
- {"id":"C","title":"I Ran My YouTube Channel Like a Growth Experiment for 4 Weeks","label":"wildcard","cluster":"market_take","hiring_relevance":1,"specificity":2,"effort":1,"format":"talking head with analytics screen"}
+ {"id":"D","title":"I Tore Down a B2B Signup Funnel the Way a Growth Engineer Interview Wants It","label":"core","cluster":"hiring_howto","hiring_relevance":3,"specificity":3,"effort":3,"format":"screen recording teardown","hook_type":"finished result first","title_pattern":"first person task + hiring outcome","intent":"get hired"},
+ {"id":"E","title":"Marketing Engineer: Is It Cooked? I Read 30 Job Postings","label":"core-adjacent","cluster":"market_take","hiring_relevance":2,"specificity":3,"effort":2,"format":"data walkthrough","hook_type":"verdict first","title_pattern":"series title plus evidence count","intent":"market check"},
+ {"id":"F","title":"How to Build Systems, Not SaaS: A Lead Router in 20 Minutes","label":"core-adjacent","cluster":"systems_build","hiring_relevance":2,"specificity":3,"effort":3,"format":"build tutorial","hook_type":"working system in 5 seconds","title_pattern":"series title plus build time","intent":"learn to build"}
 ]
